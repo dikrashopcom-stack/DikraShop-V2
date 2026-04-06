@@ -19,7 +19,6 @@
   "dependencies": {
     "@notionhq/client": "^2.2.15",
     "axios": "^1.6.7",
-    "canvas": "^2.11.2",
     "dotenv": "^16.4.4",
     "express": "^5.2.1",
     "uuid": "^9.0.0",
