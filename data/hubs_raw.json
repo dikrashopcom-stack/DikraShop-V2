@@ -1,0 +1,2669 @@
+[
+  {
+    "id": "ee77ffe4-19bf-4e34-9435-01a4b7670b7a",
+    "name": "Hub Adrar 01 مكتب أدرار",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité 140 Logements",
+      "city": "Adrar",
+      "cityTerritoryId": "6e978fc5-f20a-4b5f-9adf-61dd21a7672a",
+      "district": "Adrar",
+      "districtTerritoryId": "b9170873-bebd-40d2-98fb-96a5ace84aba",
+      "postalCode": "01001",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 27.87776595194334,
+        "lng": -0.28428690891282976
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213661110053",
+      "number2": "+213661110053",
+      "number3": ""
+    },
+    "createdAt": "2025-11-06T22:53:52.2061051+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "77aea009-96a2-4a42-b786-01b208a20294",
+    "name": "Hub El Oued 39 مكتب الوادي",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "حي سيدي عبد الله, El Oued",
+      "city": "El Oued",
+      "cityTerritoryId": "cd82549a-b1f7-48c1-9a25-2f3f05b80b1d",
+      "district": "El-Oued",
+      "districtTerritoryId": "25551e68-ea40-4df7-9630-7ace25b29fba",
+      "postalCode": "39009",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 33.37059072498424,
+        "lng": 6.85179993388489
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213791699902",
+      "number2": "+213660977078",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:36:38.0130682+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "bed0e06d-d4af-4fa4-809e-0bc8d0ff9213",
+    "name": "Hub Bouira 10 مكتب البويرة",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité 338 Logements",
+      "city": "Bouira",
+      "cityTerritoryId": "a1f0229c-4f34-40aa-9238-fadde6757cba",
+      "district": "Bouira",
+      "districtTerritoryId": "200547e7-e8f0-44e0-8953-cd89cbd76ca9",
+      "postalCode": "10000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.3807922,
+        "lng": 3.88893
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213550372615",
+      "number2": "+213770381812",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:21:54.2947893+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "376ea7e4-a89c-4ebb-96d4-0e0720244b4a",
+    "name": "Hub Taher 18 مكتب الطاهير",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Boukaabour",
+      "city": "Jijel",
+      "cityTerritoryId": "dc851e52-55b2-4beb-a7f1-79d4e73e9458",
+      "district": "Taher",
+      "districtTerritoryId": "e1dd5ed6-4a25-4cce-80e9-70a1fa705cfd",
+      "postalCode": "18200",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.77331682496121,
+        "lng": 5.895157954270913
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770367618",
+      "number2": "+213670423204",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:08:07.5624011+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "dfdd69b1-9209-4c22-a451-0fcfa12afade",
+    "name": "Hub Saida 20 مكتب سعيدة",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité 5 Juillet",
+      "city": "Saida",
+      "cityTerritoryId": "27b2042a-77f8-4c91-b62d-60934fa0daca",
+      "district": "Saida",
+      "districtTerritoryId": "96f2733c-a1ac-40d7-9c64-21258d5ec29a",
+      "postalCode": "20002",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 34.850979856620015,
+        "lng": 0.15529023615236784
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213795271265",
+      "number2": "+213770808791",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:14:28.0606322+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "774f0116-43a5-4dc5-a878-11b8b4eb1380",
+    "name": "Hub Birkhadem 16 مكتب بئرخادم",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Gué de Constantine",
+      "city": "Alger",
+      "cityTerritoryId": "d134c182-7dac-4655-9d9b-bbdb62aa2ec4",
+      "district": "Birkhadem",
+      "districtTerritoryId": "85fa42cc-3d00-4984-8da9-b192351a8ee1",
+      "postalCode": "16065",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.69960195108023,
+        "lng": 3.053518475099071
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770601836",
+      "number2": "+213770780610",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:42:19.1311413+00:00",
+    "paymentRequestEligibilityCutoffTime": "12:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "77c20585-fc73-44f7-91bc-11f11e4a3689",
+    "name": "Hub DELLYS 35 مكتب دلس",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Dellys",
+      "city": "Boumerdes",
+      "cityTerritoryId": "f823492c-f79d-4c2d-befe-933bf9917a65",
+      "district": "Dellys",
+      "districtTerritoryId": "6eb90e5f-bbf6-4ca4-a6d9-b3ea8bb3552a",
+      "postalCode": "35004",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.90828538685581,
+        "lng": 3.9145772582696075
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213551904529",
+      "number2": "+213775184998",
+      "number3": ""
+    },
+    "createdAt": "2026-02-06T13:50:43.5636064+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "d17c6a44-c53c-4c2e-a489-219b1212aecd",
+    "name": "Tri Tlemcen 13 مركز فرز تلمسان",
+    "type": "sorting-center-hub",
+    "isPickupPoint": false,
+    "isVisible": true,
+    "address": {
+      "street": "Mansourah",
+      "city": "Tlemcen",
+      "cityTerritoryId": "53c9e062-9c4e-4c77-8b71-55eabf887f83",
+      "district": "Mansourah",
+      "districtTerritoryId": "cd4baaa2-fd46-4e1d-94b6-50ac300441e1",
+      "postalCode": "13000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 34.874391255228524,
+        "lng": -1.32902333862049
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770396954",
+      "number2": "+213770396954",
+      "number3": ""
+    },
+    "createdAt": "2025-11-26T12:54:57.7404804+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "2f6c55b5-c104-43cf-a334-230a5f798ab1",
+    "name": "Hub Guelma 24 مكتب قالمة",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Hassani Mohamed",
+      "city": "Guelma",
+      "cityTerritoryId": "2d1e61ff-e2af-4b4d-a592-0a6436c5fffd",
+      "district": "Guelma",
+      "districtTerritoryId": "97529486-399a-4020-834e-510eb0b4b905",
+      "postalCode": "24000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.46373966395155,
+        "lng": 7.436880953976082
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213791482266",
+      "number2": "+213791616769",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:28:29.5153694+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "456252e7-2937-423f-81a9-250bf42a7c8c",
+    "name": "Hub El Eulma 19 مكتب العلمة",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Logements participatif LSP",
+      "city": "Setif",
+      "cityTerritoryId": "56ee938d-7887-408e-8731-364d07ad3594",
+      "district": "El Eulma",
+      "districtTerritoryId": "62762808-0c86-4c6a-a605-146a6d124fa3",
+      "postalCode": "19001",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.15595422432587,
+        "lng": 5.667958736304983
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770788097",
+      "number2": "+213770339975",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:12:16.8236874+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "bae46801-7d74-407c-af40-25f47bbbfd1b",
+    "name": "Hub Ouargla 30 مكتب ورقلة",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité Bahmed",
+      "city": "Ouargla",
+      "cityTerritoryId": "ada333a0-708d-476e-a97d-fd70fe661b09",
+      "district": "Ouargla",
+      "districtTerritoryId": "afb70861-2255-45dc-a0ee-c2c94b5cf9ba",
+      "postalCode": "30009",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 31.95787203568145,
+        "lng": 5.3233056180318625
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770612103",
+      "number2": "+213770612103",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:59:20.3871279+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "9e9f8b08-b795-447d-90e8-274932a8249f",
+    "name": "Hub In Salah 53 مكتب عين صالح",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "ain salah",
+      "city": "In Salah",
+      "cityTerritoryId": "7c752560-8412-4e11-8c75-ed7cd9c22be2",
+      "district": "Ain Salah",
+      "districtTerritoryId": "81622af1-2248-4042-a054-b9059b38572a",
+      "postalCode": "53000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 27.199995316814995,
+        "lng": 2.4806257321418816
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770994803",
+      "number2": "",
+      "number3": ""
+    },
+    "createdAt": "2025-11-19T19:39:40.6734071+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "88c60774-4f10-46f1-8615-2992d4d8b1f0",
+    "name": "Hub Reghaia 16  مكتب رغاية",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité Amirouche 692",
+      "city": "Alger",
+      "cityTerritoryId": "d134c182-7dac-4655-9d9b-bbdb62aa2ec4",
+      "district": "Reghaia",
+      "districtTerritoryId": "ff17d058-ac0d-4d6f-bfcf-7d38ba1124dd",
+      "postalCode": "16036",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.738856108182325,
+        "lng": 3.336909916042386
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770197298",
+      "number2": "+213799575715",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:54:10.3456894+00:00",
+    "paymentRequestEligibilityCutoffTime": "12:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "f1d6e8c1-b444-4ef7-ad10-3332d57d6be8",
+    "name": "Hub Touggourt 55 مكتب تقرت",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Touggourt",
+      "city": "Touggourt",
+      "cityTerritoryId": "442d8a1c-2e12-4a8a-9c7e-8618aac20280",
+      "district": "Touggourt",
+      "districtTerritoryId": "d80ba60b-0e10-4c62-b63a-39f1da6e6755",
+      "postalCode": "30002",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 33.1061250250744,
+        "lng": 6.065762836539422
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213795815886",
+      "number2": "+213660977085",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T14:03:26.0827426+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "6fcf546e-6e1e-4aee-8dd0-349bbf7ac6e6",
+    "name": "hub kouba 16  مكتب القبة",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Rue Chebihi Moussa",
+      "city": "Alger",
+      "cityTerritoryId": "d134c182-7dac-4655-9d9b-bbdb62aa2ec4",
+      "district": "Kouba",
+      "districtTerritoryId": "b8dab885-69ce-4651-b04f-eb3b33f15792",
+      "postalCode": "16250",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.72441687306054,
+        "lng": 3.0918691207053115
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213660565382",
+      "number2": "",
+      "number3": ""
+    },
+    "createdAt": "2026-02-06T13:31:21.0561662+00:00",
+    "paymentRequestEligibilityCutoffTime": "12:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "7f004167-a914-4bc2-a94d-399d28796196",
+    "name": "Hub Ghardaia 47 مكتب غرداية",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Quartier Hadj Messaoud",
+      "city": "Ghardaia",
+      "cityTerritoryId": "e7b51620-74f4-4748-85c5-216fb9b01b03",
+      "district": "Ghardaia",
+      "districtTerritoryId": "f4f46fef-964c-4f71-97ed-90761487cce5",
+      "postalCode": "47000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 32.49188444544227,
+        "lng": 3.682936312203232
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770505018",
+      "number2": "+213774728101",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:53:51.1561844+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "4036dfe9-e7ae-45c7-998a-3ad1f3590198",
+    "name": "Tri Boumerdes 35 مركز فرز بومرداس",
+    "type": "sorting-center-hub",
+    "isPickupPoint": false,
+    "isVisible": true,
+    "address": {
+      "street": "Cité Ibn Khaldoun (1200 lgts)",
+      "city": "Boumerdes",
+      "cityTerritoryId": "f823492c-f79d-4c2d-befe-933bf9917a65",
+      "district": "Boumerdes",
+      "districtTerritoryId": "514b858a-e885-4ae8-a763-f463895a4a5d",
+      "postalCode": "35062",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.75672772078077,
+        "lng": 3.4657600522041325
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213773749899",
+      "number2": "+213783395668",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:31:06.634408+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "41a035e6-182c-425d-b18d-3b292cdb4f19",
+    "name": "Hub Annaba 23 مكتب عنابة",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Rue De L'avant Port",
+      "city": "Annaba",
+      "cityTerritoryId": "3fd318e8-7c24-480c-a106-21f6c842583d",
+      "district": "Annaba",
+      "districtTerritoryId": "2502606d-9da3-4a23-b502-5ef9ebc584eb",
+      "postalCode": "23000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.902177069503644,
+        "lng": 7.76665854442571
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770350790",
+      "number2": "+213796369689",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:22:28.4463128+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "23645333-674f-4b9f-b833-3bc1f21345e0",
+    "name": "Hub El Morchid 31 مكتب المرشد",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Morchid",
+      "city": "Oran",
+      "cityTerritoryId": "e772eb46-276a-4f41-bae7-3b67e1bdc616",
+      "district": "Oran",
+      "districtTerritoryId": "d43a3c18-2d6a-4063-a980-c419e53f19a9",
+      "postalCode": "31130",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 35.708936447497415,
+        "lng": -0.5918772328422617
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770395200",
+      "number2": "+213770748302",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T12:09:48.6177074+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "6f22bad5-93b1-4adc-8b8b-3e9ea447ae49",
+    "name": "Hub Bordj menaiel 35 مكتب برج منايل",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Bordj Menael",
+      "city": "Boumerdes",
+      "cityTerritoryId": "f823492c-f79d-4c2d-befe-933bf9917a65",
+      "district": "Bordj Menaiel",
+      "districtTerritoryId": "d695c97f-fd2b-4061-8a41-beb6ec73a907",
+      "postalCode": "35001",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.74521389516359,
+        "lng": 3.7261467266917068
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213775067289",
+      "number2": "+213553161789",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:29:44.1257843+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "e975de4b-55a9-4f46-8a0b-3f44f9cc606a",
+    "name": "Hub Blida 09 مكتب البليدة",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité Ramoule",
+      "city": "Blida",
+      "cityTerritoryId": "a7e764cf-e9ca-4c1f-8232-89852d102aec",
+      "district": "Blida",
+      "districtTerritoryId": "d3866552-a62a-46e6-a6b2-8f9eb0c0249d",
+      "postalCode": "09000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.4979628,
+        "lng": 2.8269554
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213656935847",
+      "number2": "",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:09:40.4906611+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "381ec9c7-b9b3-40ca-aed2-3faf72e66a02",
+    "name": "Tri Annaba 23 مركز فرز عنابة",
+    "type": "sorting-center-hub",
+    "isPickupPoint": false,
+    "isVisible": true,
+    "address": {
+      "street": "Avenue Colonel Amirouche",
+      "city": "Annaba",
+      "cityTerritoryId": "3fd318e8-7c24-480c-a106-21f6c842583d",
+      "district": "Annaba",
+      "districtTerritoryId": "2502606d-9da3-4a23-b502-5ef9ebc584eb",
+      "postalCode": "23000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.90452546049348,
+        "lng": 7.745758295059205
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770350790",
+      "number2": "+213655455784",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:26:27.7719411+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "03f347ec-466e-4421-943b-418b92aa121f",
+    "name": "Hub In Guezzam 54 مكتب عين قزام",
+    "type": "sorting-center-hub",
+    "isPickupPoint": false,
+    "isVisible": true,
+    "address": {
+      "street": "TAH 2",
+      "city": "In Guezzam",
+      "cityTerritoryId": "f30136dc-3012-4ac7-912c-33eab37393a9",
+      "district": "Ain Guezzam",
+      "districtTerritoryId": "5d7f6ee0-fd28-4b04-92b2-c6012b66e737",
+      "postalCode": "11130",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 19.576488174879934,
+        "lng": 5.7701562867083265
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770533214",
+      "number2": "",
+      "number3": ""
+    },
+    "createdAt": "2025-11-19T19:42:04.7587704+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "d3f40abe-b020-4781-aab2-41a52eb01cc7",
+    "name": "Hub Relizane 48 مكتب غيليزان",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité 42 logements",
+      "city": "Relizane",
+      "cityTerritoryId": "ad58c5ee-868d-4acb-8f03-409f97a10370",
+      "district": "Relizane",
+      "districtTerritoryId": "67796560-db4e-4ad2-9942-14e5c2697719",
+      "postalCode": "48000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 35.7463074816379,
+        "lng": 0.5602071448875147
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770964017",
+      "number2": "+213770964059",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:55:52.419819+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "9c3871c5-8f07-4a07-976d-44ebe70717ab",
+    "name": "Hub Menea 58  مكتب المنيعة",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "el menea",
+      "city": "El Menia",
+      "cityTerritoryId": "3d19d427-08f3-492c-a1d0-e7ace3516ed2",
+      "district": "El Meniaa",
+      "districtTerritoryId": "a6a436bd-e8e5-4bd7-8b7c-a91906222143",
+      "postalCode": "47001",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 30.582997975458284,
+        "lng": 2.881272365914312
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213652778396",
+      "number2": "+213652778369",
+      "number3": ""
+    },
+    "createdAt": "2025-11-17T22:21:01.980049+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "a6e91702-f9dc-45a6-a76d-45df5b87b0f4",
+    "name": "Tri Oran 31 مركز فرز وهران",
+    "type": "sorting-center-hub",
+    "isPickupPoint": false,
+    "isVisible": true,
+    "address": {
+      "street": "Zone Industriel Senia",
+      "city": "Oran",
+      "cityTerritoryId": "e772eb46-276a-4f41-bae7-3b67e1bdc616",
+      "district": "Oran",
+      "districtTerritoryId": "d43a3c18-2d6a-4063-a980-c419e53f19a9",
+      "postalCode": "31100",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 35.64036952251504,
+        "lng": -0.5982281857690008
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770395200",
+      "number2": "+213770606524",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:22:02.2493441+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "bb45139d-1544-4316-bef9-46ea8a3ecf84",
+    "name": "Hub Tamanrasset 11 مكتب تامنراست",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité El wiam",
+      "city": "Tamanrasset",
+      "cityTerritoryId": "38560f06-e049-4fd2-9664-a655e552b517",
+      "district": "Tamanrasset",
+      "districtTerritoryId": "1ef7801a-95bf-442f-8530-5481d6c1b96e",
+      "postalCode": "11000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 22.7995999,
+        "lng": 5.5134264
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770994257",
+      "number2": "+213770994606",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:23:35.4659016+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "200d809f-a4cf-4849-beaa-479121f6a638",
+    "name": "Centre de transit LAGHOUAT 03  مركزالعبور الأغواط",
+    "type": "sorting-center",
+    "isPickupPoint": false,
+    "isVisible": true,
+    "address": {
+      "street": "RV95+HWV Laghouat",
+      "city": "Laghouat",
+      "cityTerritoryId": "00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b",
+      "district": "Laghouat",
+      "districtTerritoryId": "5966de94-d813-4e57-aee2-42566cc48be6",
+      "postalCode": "03000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 33.818976,
+        "lng": 2.859811
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770386247",
+      "number2": "",
+      "number3": ""
+    },
+    "createdAt": "2026-02-17T14:27:36.6416233+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "b32f0bbd-8f42-42a8-ba91-4d328017cebe",
+    "name": "Hub Mascara 29 مكتب معسكر",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Avenue Mehor Mehieddine",
+      "city": "Mascara",
+      "cityTerritoryId": "a17a6482-3f48-4948-aaf2-8a653c4c1110",
+      "district": "Mascara",
+      "districtTerritoryId": "85739045-b15e-42be-8512-2e25b371e6d1",
+      "postalCode": "29001",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 35.40104272093468,
+        "lng": 0.13785528295579663
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213555266640",
+      "number2": "+213772032302",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:57:33.7854755+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "614e28bd-76e6-4947-9682-5065bc032726",
+    "name": "Hub Baraki 16 مكتب براقي",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Route de l'arbaa",
+      "city": "Alger",
+      "cityTerritoryId": "d134c182-7dac-4655-9d9b-bbdb62aa2ec4",
+      "district": "Baraki",
+      "districtTerritoryId": "192e4026-0e46-43e0-9685-02122af81f80",
+      "postalCode": "16027",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.66097882586447,
+        "lng": 3.0929312003546188
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770183844",
+      "number2": "+213770183844",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:39:19.3321024+00:00",
+    "paymentRequestEligibilityCutoffTime": "12:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "8293a00e-dcc4-43c4-ba83-517b007b1667",
+    "name": "Tri Bejaia 06 مركز فرز بجاية",
+    "type": "sorting-center-hub",
+    "isPickupPoint": false,
+    "isVisible": true,
+    "address": {
+      "street": "Cité Remla",
+      "city": "Bejaia",
+      "cityTerritoryId": "295585ad-4cf4-4b7e-b276-9bb62d019749",
+      "district": "Bejaia",
+      "districtTerritoryId": "caa7d1a7-4d2c-4d5e-83f1-fb9f09554544",
+      "postalCode": "06000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.723815060628446,
+        "lng": 5.073108673095704
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213698861234",
+      "number2": "+213770056769",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:01:26.3698508+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "c88f88ed-a846-47ac-b0a1-52857081a846",
+    "name": "Hub Batna 05 مكتب باتنة",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Hay El Riadh",
+      "city": "Batna",
+      "cityTerritoryId": "a8c05822-e30a-4d5a-bcb3-3b3bb23c079b",
+      "district": "Batna",
+      "districtTerritoryId": "37f5389c-ee2d-4dec-81dc-058d8cc15098",
+      "postalCode": "05000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 35.549253975212565,
+        "lng": 6.170078516006471
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213659781234",
+      "number2": "+213770555245",
+      "number3": ""
+    },
+    "createdAt": "2025-11-06T23:48:11.6940847+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "dede6622-90f4-4b25-b27b-54ad88d4af97",
+    "name": "Hub Akbou 06 مكتب أقبو",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Gare ferroviaire Akbou",
+      "city": "Bejaia",
+      "cityTerritoryId": "295585ad-4cf4-4b7e-b276-9bb62d019749",
+      "district": "Akbou",
+      "districtTerritoryId": "5d964794-b12a-4cd2-8793-78d192723e96",
+      "postalCode": "06001",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.4569496,
+        "lng": 4.5376825
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770104684",
+      "number2": "+213770104578",
+      "number3": ""
+    },
+    "createdAt": "2025-11-06T23:58:56.5316463+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "60b40b18-380b-46dd-9d80-5975bab545b2",
+    "name": "Hub Mouzaia 09 مكتب موزاية",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Ben Ahmed Ali Aslaoui",
+      "city": "Blida",
+      "cityTerritoryId": "a7e764cf-e9ca-4c1f-8232-89852d102aec",
+      "district": "Mouzaia",
+      "districtTerritoryId": "ca13ad49-0831-4129-9667-e7fc0163407b",
+      "postalCode": "09210",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.4654457,
+        "lng": 2.6849238
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213774531922",
+      "number2": "+213774531922",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:17:04.3294012+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "15ec1f9a-1cef-428a-b028-5e1a7e1685a6",
+    "name": "Hub El Meghaier 57 مكتب المغير",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "el meghaier",
+      "city": "El Meghaier",
+      "cityTerritoryId": "eabb6505-5eef-479f-b6a3-36ba282d5237",
+      "district": "El-M'ghaier",
+      "districtTerritoryId": "9ccc4f48-dc49-4f29-812d-308d3a6ac95b",
+      "postalCode": "39200",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 33.952156836088136,
+        "lng": 5.9164171452020895
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213783070809",
+      "number2": "",
+      "number3": ""
+    },
+    "createdAt": "2025-11-17T22:40:24.3301625+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "2cf061b2-c846-4939-b70d-6180f5c24a78",
+    "name": "Tri Tipaza 42 مركز فرز تيبازة",
+    "type": "sorting-center-hub",
+    "isPickupPoint": false,
+    "isVisible": true,
+    "address": {
+      "street": "Tipaza",
+      "city": "Tipaza",
+      "cityTerritoryId": "1435179a-6dbb-4d9c-a186-c521b2a57319",
+      "district": "Tipaza",
+      "districtTerritoryId": "3b0d300d-a978-462e-9ea5-92bd6bb74567",
+      "postalCode": "42000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.59185448101576,
+        "lng": 2.448862725798691
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770316143",
+      "number2": "+213770316143",
+      "number3": ""
+    },
+    "createdAt": "2025-11-26T12:37:55.4743083+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "05458248-a2b8-473b-8938-6259c68b8c2e",
+    "name": "Hub Naama 45 مكتب النعامة",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité 66 logements - Mecheria",
+      "city": "Naama",
+      "cityTerritoryId": "ecdf0888-0470-4b2f-beb8-24c99b6fc9cb",
+      "district": "Mecheria",
+      "districtTerritoryId": "57d85a47-e51d-4dd8-9602-30f8472ace40",
+      "postalCode": "45102",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 33.5445355337278,
+        "lng": -0.273300533655132
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770033923",
+      "number2": "+213659269347",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:49:46.4937188+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "8bc58d93-d169-4a0a-a02c-650dff80ed26",
+    "name": "Hub Souk Ahras 41 مكتب سوق أهراس",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "RN 16 coopératives el yassamine",
+      "city": "Souk Ahras",
+      "cityTerritoryId": "56d30b7a-465a-462c-bc2a-3e132c89be63",
+      "district": "Souk Ahras",
+      "districtTerritoryId": "7026923a-e8ed-4da6-8340-c60c2866bdaf",
+      "postalCode": "41000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.286292933272705,
+        "lng": 7.940927493412172
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213792270661",
+      "number2": "+213795949808",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:40:38.8331327+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "aebfef39-9292-4e28-aa1f-65d274d1f8c1",
+    "name": "Hub Ain El Beida04مكتب عين البيضاء",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "cité el Amal ",
+      "city": "Oum El Bouaghi",
+      "cityTerritoryId": "37c70742-df6b-4019-981a-a16a29a14748",
+      "district": "Ain Beida",
+      "districtTerritoryId": "6e743974-1d6d-44d2-9d65-475debc85350",
+      "postalCode": "04000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 35.867673008513826,
+        "lng": 7.123539447784425
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213698631234",
+      "number2": "+213660737474",
+      "number3": ""
+    },
+    "createdAt": "2025-11-06T23:43:25.1912738+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "b7d3850a-b400-4554-8e21-68731bb750e2",
+    "name": "Hub Laghouat 03 مكتب الأغواط",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité 101 logements",
+      "city": "Laghouat",
+      "cityTerritoryId": "00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b",
+      "district": "Laghouat",
+      "districtTerritoryId": "5966de94-d813-4e57-aee2-42566cc48be6",
+      "postalCode": "03000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 33.79492332239261,
+        "lng": 2.8502708673477177
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213674403881",
+      "number2": "+213770735683",
+      "number3": ""
+    },
+    "createdAt": "2025-11-06T23:32:41.1168096+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "1c4565c6-d090-4cc9-bbc7-6d775562e3ee",
+    "name": "Hub Setif 19 مكتب سطيف",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité Dallas 3eme Tranche",
+      "city": "Setif",
+      "cityTerritoryId": "56ee938d-7887-408e-8731-364d07ad3594",
+      "district": "Setif",
+      "districtTerritoryId": "4ecfb321-0c02-4391-b35f-c59672ebb364",
+      "postalCode": "19000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.18977010299269,
+        "lng": 5.438302619075014
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770788097",
+      "number2": "+213549664174",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:10:29.6237573+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "869396d4-47bd-41be-8ee4-6eea72f1097a",
+    "name": "Hub Zouaghi 25 مكتب زواغي",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "L'Eucalyptus",
+      "city": "Constantine",
+      "cityTerritoryId": "e9a1e9cf-8475-4768-94cc-0888d094ff47",
+      "district": "Constantine",
+      "districtTerritoryId": "62ad6630-4eb8-4c51-85b7-8802b562ddc3",
+      "postalCode": "25013",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.31349540107195,
+        "lng": 6.622879267785798
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770777159",
+      "number2": "+213770545305",
+      "number3": ""
+    },
+    "createdAt": "2025-11-09T13:07:58.0456011+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "ca3a013d-2542-4499-80d3-700c2216dd52",
+    "name": "Hub Beni Abbes 52 مكتب بني عباس",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Beni Abbes",
+      "city": "Beni Abbes",
+      "cityTerritoryId": "ba12c65c-de9e-4f30-a449-6ba0b27dd7d7",
+      "district": "Beni-Abbes",
+      "districtTerritoryId": "e5dccfc2-d778-48a8-9295-0570f16766e4",
+      "postalCode": "08300",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 30.13386085952071,
+        "lng": -2.1597303011012885
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213662566702",
+      "number2": "+213662566702",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T14:01:55.0099825+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "fff06f30-bcb1-43f5-86a4-7138b90574e0",
+    "name": "Hub Bejaia 06 مكتب بجاية",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité Somacob",
+      "city": "Bejaia",
+      "cityTerritoryId": "295585ad-4cf4-4b7e-b276-9bb62d019749",
+      "district": "Bejaia",
+      "districtTerritoryId": "caa7d1a7-4d2c-4d5e-83f1-fb9f09554544",
+      "postalCode": "06000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.7437199,
+        "lng": 5.0485819
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770104684",
+      "number2": "+213770603402",
+      "number3": ""
+    },
+    "createdAt": "2025-11-06T23:52:28.323975+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "d0bd34a1-2d5c-4484-906a-71abc3b38180",
+    "name": "Hub Kolea 42 مكتب القليعة",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Route d'Alger cité cnep I40",
+      "city": "Tipaza",
+      "cityTerritoryId": "1435179a-6dbb-4d9c-a186-c521b2a57319",
+      "district": "Kolea",
+      "districtTerritoryId": "e3312aa7-c123-4bf1-a634-199d6f89b591",
+      "postalCode": "42003",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.6425696,
+        "lng": 2.7714035
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213551200459",
+      "number2": "+213551200546",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:44:05.3605577+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "e98af19c-ba0f-4bbe-9b89-71ae829ec898",
+    "name": "Hub Mostaganem 27 مكتب مستغانم",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Boulevard Moufti Benkara Mostafa",
+      "city": "Mostaganem",
+      "cityTerritoryId": "d7175ca6-6dd7-4dfb-a399-d388e782473a",
+      "district": "Mostaganem",
+      "districtTerritoryId": "8e6d1e0e-6687-42d9-88c5-fd880db27145",
+      "postalCode": "27000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 35.93197904307287,
+        "lng": 0.0828217319719249
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213670269210",
+      "number2": "+213676730794",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:51:20.8945202+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "9aa9b2ab-180a-4112-acda-752c96304ae6",
+    "name": "Hub Bou Saada 28 مكتب بوسعادة",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Meitar",
+      "city": "MSila",
+      "cityTerritoryId": "75ca308d-ab36-44e2-9702-2e2300a57b8c",
+      "district": "Bou Saada",
+      "districtTerritoryId": "1dfbaa3d-3222-4125-b19c-8cd4fe996a3b",
+      "postalCode": "28200",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 35.20800123161985,
+        "lng": 4.179370287977081
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770297855",
+      "number2": "+213770191146",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:55:53.0184388+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "cb2c04b1-c283-4c38-ae86-7d4f708d0f8f",
+    "name": "Hub Khenchela 40 مكتب خنشلة",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Park Omnisport",
+      "city": "Khenchela",
+      "cityTerritoryId": "d4549528-8327-4a3f-9732-5a5462c84b8d",
+      "district": "Khenchela",
+      "districtTerritoryId": "cf82b27f-8196-4028-8aa7-663de94d6cac",
+      "postalCode": "40047",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 35.41467753864419,
+        "lng": 7.138989951228513
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213560622325",
+      "number2": "+213657794084",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:39:00.1339891+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "9e16390f-f2de-43a4-afe0-7def0131647c",
+    "name": "Hub Skikda 21 مكتب سكيكدة",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Mokhbi Leulmi",
+      "city": "Skikda",
+      "cityTerritoryId": "a9df7e26-1086-4319-8a93-19969c99c89b",
+      "district": "Skikda",
+      "districtTerritoryId": "60904459-b12f-4981-be5c-cb411be40939",
+      "postalCode": "21001",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.8682074,
+        "lng": 6.9062148
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770308809",
+      "number2": "+213792435732",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:16:37.2726247+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "c329abc9-9492-48d0-916f-80cc111eea56",
+    "name": "Hub Birtouta 16 مكتب بئرتوتة",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Bouhadja Ali",
+      "city": "Alger",
+      "cityTerritoryId": "d134c182-7dac-4655-9d9b-bbdb62aa2ec4",
+      "district": "Bir Touta",
+      "districtTerritoryId": "17b37af7-497c-49b1-bf39-5e4630d266ce",
+      "postalCode": "16118",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.64108067996657,
+        "lng": 2.996430302415623
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770934922",
+      "number2": "+213776062654",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:35:54.667445+00:00",
+    "paymentRequestEligibilityCutoffTime": "12:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "939ef30d-fd39-4f07-a0ba-822842df6ff0",
+    "name": "Hub Tlemcen 13 مكتب تلمسان",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité el Imama",
+      "city": "Tlemcen",
+      "cityTerritoryId": "53c9e062-9c4e-4c77-8b71-55eabf887f83",
+      "district": "Tlemcen",
+      "districtTerritoryId": "626c17f7-faef-4efb-ac92-65246033892d",
+      "postalCode": "13000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 34.8948055,
+        "lng": -1.3285538
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213660884156",
+      "number2": "+213660884156",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:27:04.51483+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "ebb341ef-93c9-4dab-b9de-9504a066bbcf",
+    "name": "Hub El Bouni 23 مكتب البوني",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Bungalows",
+      "city": "Annaba",
+      "cityTerritoryId": "3fd318e8-7c24-480c-a106-21f6c842583d",
+      "district": "El Bouni",
+      "districtTerritoryId": "d8bf8ec0-8441-43d7-a7bd-df09f6821aed",
+      "postalCode": "23010",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.856175192442144,
+        "lng": 7.749321231374788
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770350790",
+      "number2": "+213796369689",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:24:39.2346316+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "65576b7a-7ebf-40c1-98c3-95c06ea1cfc9",
+    "name": "Hub Timimoune 49 مكتب تيميمون",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "cité 400 logts",
+      "city": "Timimoun",
+      "cityTerritoryId": "bcb30485-37b5-4135-a508-acad8a8a9cf8",
+      "district": "Timimoun",
+      "districtTerritoryId": "b6f63f60-e149-42c6-a04a-418889adfbeb",
+      "postalCode": "49005",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 29.271336671310873,
+        "lng": 0.23736564821789768
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213658504936",
+      "number2": "+213658504936",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:57:47.8854456+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "462a084c-7117-48cd-a6e5-9b5e0742a047",
+    "name": "Hub Bougara 09 مكتب بوقرة",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Hamidouch Mouloud, route d'alger",
+      "city": "Blida",
+      "cityTerritoryId": "a7e764cf-e9ca-4c1f-8232-89852d102aec",
+      "district": "Bougara",
+      "districtTerritoryId": "a4246326-eb05-4cc1-b7c3-2ce76949f3e8",
+      "postalCode": "09008",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.5442213,
+        "lng": 3.0825766
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213771928094",
+      "number2": "+213771928094",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:13:20.3452293+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "63681fd2-4545-4376-b2da-9c1679316b10",
+    "name": "Hub Tipaza 42 مكتب تيبازة",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Rabta",
+      "city": "Tipaza",
+      "cityTerritoryId": "1435179a-6dbb-4d9c-a186-c521b2a57319",
+      "district": "Tipaza",
+      "districtTerritoryId": "3b0d300d-a978-462e-9ea5-92bd6bb74567",
+      "postalCode": "42000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.588721562684825,
+        "lng": 2.466248760235499
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770420724",
+      "number2": "+213770200460",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:42:28.9749408+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "8b83e69b-623c-476c-b554-9c46576c0e90",
+    "name": "Hub Belle vue 25 مكتب المنظر الجميل",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Rue Barkat Lakhdar",
+      "city": "Constantine",
+      "cityTerritoryId": "e9a1e9cf-8475-4768-94cc-0888d094ff47",
+      "district": "Constantine",
+      "districtTerritoryId": "62ad6630-4eb8-4c51-85b7-8802b562ddc3",
+      "postalCode": "25001",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.35163722704999,
+        "lng": 6.60601357469576
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770777159",
+      "number2": "+213770796022",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:43:59.2829438+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "875f1a17-0e90-4fb0-b88c-a2c88f99151b",
+    "name": "Hub Ouled Fayet 16 مكتب أولاد فايت",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "CC2",
+      "city": "Alger",
+      "cityTerritoryId": "d134c182-7dac-4655-9d9b-bbdb62aa2ec4",
+      "district": "Ouled Fayet",
+      "districtTerritoryId": "16749b16-884c-4562-8c69-87186c0c4792",
+      "postalCode": "16094",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.7395285,
+        "lng": 2.9483184
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770072703",
+      "number2": "+213770072703",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:44:44.4828402+00:00",
+    "paymentRequestEligibilityCutoffTime": "12:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "4c9e6fe9-8894-4bf6-8470-a2f572294bd4",
+    "name": "Hub Ain Temouchent 46 مكتب عبن تموشنت",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Haï Zeitoun",
+      "city": "Ain Temouchent",
+      "cityTerritoryId": "fc460ec5-3e71-489c-b95b-e5301ea68341",
+      "district": "Ain Temouchent",
+      "districtTerritoryId": "3484bddb-c3f0-4d7a-a23d-0ff5324a588b",
+      "postalCode": "46000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 35.306488196997066,
+        "lng": -1.1488213080119072
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770766682",
+      "number2": "+213770548878",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:52:27.9451583+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "02b9859e-17be-452a-9158-acdddddea798",
+    "name": "CENTRE DE TRI Chlef 02 مركز فرز الشلف",
+    "type": "sorting-center-hub",
+    "isPickupPoint": false,
+    "isVisible": true,
+    "address": {
+      "street": "Rue du 20 Août",
+      "city": "Chlef",
+      "cityTerritoryId": "981f136a-996f-463e-a536-8e643daab193",
+      "district": "Chlef",
+      "districtTerritoryId": "fc22bf39-a1f5-44bf-ac5e-b25280768926",
+      "postalCode": "02000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.164063463311095,
+        "lng": 1.3338088989257815
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770994634",
+      "number2": "+213770186232",
+      "number3": ""
+    },
+    "createdAt": "2025-11-06T23:18:43.6807123+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "0da58310-7e5b-4825-ab4a-ae3b290894a5",
+    "name": "Hub Médéa 26 مكتب المدية",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Rue Rouis Kadour (Beziwesh)",
+      "city": "Medea",
+      "cityTerritoryId": "0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff",
+      "district": "Medea",
+      "districtTerritoryId": "60f4499d-cead-453c-bc3a-5b19201d2627",
+      "postalCode": "26800",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.274480845589,
+        "lng": 2.760825061544621
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213779460270",
+      "number2": "+213781279619",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:49:46.1503614+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "26163ed5-cfcc-4c89-8171-af6f332f9355",
+    "name": "Hub El Jomhoria 16 مكتب الجمهورية",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Ouled Zidane",
+      "city": "Alger",
+      "cityTerritoryId": "d134c182-7dac-4655-9d9b-bbdb62aa2ec4",
+      "district": "Les Eucalyptus",
+      "districtTerritoryId": "68a7377a-1fa3-427a-b136-f5c1842cffc2",
+      "postalCode": "16270",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.663977222910816,
+        "lng": 3.199945578040242
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213560270437",
+      "number2": "+213560270448",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T01:00:40.3972716+00:00",
+    "paymentRequestEligibilityCutoffTime": "12:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "ffffad6e-4a31-4e05-84da-b16ad26c64b5",
+    "name": "Hub Sidi Belabes 22 مكتب سيدي بلعباس",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "422 logts",
+      "city": "Sidi Bel Abbes",
+      "cityTerritoryId": "2cec2b2a-cc37-480a-9183-59fdfdb65cd4",
+      "district": "Sidi Bel-Abbes",
+      "districtTerritoryId": "25a2fad5-86bf-49a0-a589-4c17bf45eed5",
+      "postalCode": "22002",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 35.21847966579593,
+        "lng": -0.6289223728504557
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213773981287",
+      "number2": "+213773981287",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:20:44.0125125+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "a53e622e-f201-4ea9-a443-b2c1682fadc3",
+    "name": "hub Ténès 02 مكتب تـنـس",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Rue Boufadis",
+      "city": "Chlef",
+      "cityTerritoryId": "981f136a-996f-463e-a536-8e643daab193",
+      "district": "Tenes",
+      "districtTerritoryId": "8f556564-064c-4bd8-a720-234fb16251c8",
+      "postalCode": "02006",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.50778157051652,
+        "lng": 1.307952404022217
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770993572",
+      "number2": "+213770994562",
+      "number3": ""
+    },
+    "createdAt": "2025-11-06T23:10:21.0448406+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "0c20b799-8b81-41bb-b9a3-b42e786998c7",
+    "name": "Hub M'sila 28 مكتب مسيلة",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité Ichbilia",
+      "city": "MSila",
+      "cityTerritoryId": "75ca308d-ab36-44e2-9702-2e2300a57b8c",
+      "district": "M'sila",
+      "districtTerritoryId": "6e2e1a3b-41c2-4dff-840e-3bee147a511c",
+      "postalCode": "28000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 35.719337579681934,
+        "lng": 4.525509355879024
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770641663",
+      "number2": "+213770824131",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:53:16.3322585+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "039daf35-c258-4ca3-9685-b769b6eb32d7",
+    "name": "Hub El Tarf 36 مكتب الطارف",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "El Tarf",
+      "city": "El Tarf",
+      "cityTerritoryId": "e6f4b09c-f63e-42af-92bc-dab9b422c34d",
+      "district": "El Tarf",
+      "districtTerritoryId": "befd6576-9d6f-4e47-a3e2-28c14ee31e91",
+      "postalCode": "36000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.768899551364704,
+        "lng": 8.311673171796158
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213670432238",
+      "number2": "+213770612704",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:32:47.5749814+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "8db7730a-f481-43f8-9770-bad3b74a458b",
+    "name": "Hub Maraval 31 مكتب مارافال",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Maraval",
+      "city": "Oran",
+      "cityTerritoryId": "e772eb46-276a-4f41-bae7-3b67e1bdc616",
+      "district": "Oran",
+      "districtTerritoryId": "d43a3c18-2d6a-4063-a980-c419e53f19a9",
+      "postalCode": "31019",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 35.66702766289001,
+        "lng": -0.6467976390092179
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770169659",
+      "number2": "+213770169659",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T12:11:22.7237109+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "95f33f6b-d322-4d2f-a144-bec29c3ed4f7",
+    "name": "Hub Tizi Ouzou 15 مكتب تيزي وزو",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Lotissement Sud Ouest",
+      "city": "Tizi Ouzou",
+      "cityTerritoryId": "5bef8e95-fad8-4a15-95f0-8d6f5c80f69e",
+      "district": "Tizi-Ouzou",
+      "districtTerritoryId": "66d8b00b-2172-42ae-8c7f-f993ac9c819e",
+      "postalCode": "15000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.7067375,
+        "lng": 4.0317803
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770599901",
+      "number2": "+213770180602",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:34:05.7728766+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "114593cd-a1d9-4855-a73a-c0dbe400d1c7",
+    "name": "Hub Bordj bouareridj 34 مكتب برج بوعريريج",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité Chelbabi - Lagarre",
+      "city": "Bordj Bou Arreridj",
+      "cityTerritoryId": "80d1b557-03b2-4073-a8c2-89a8712a7fc8",
+      "district": "B. B. Arreridj",
+      "districtTerritoryId": "9f3a78cb-791f-4ea1-aca2-9e44de1a4e2e",
+      "postalCode": "34000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.0685845,
+        "lng": 4.7501894
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770709166",
+      "number2": "+213770272317",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:26:10.5906163+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "f1b3479a-156c-4d36-bd4a-c29dda99e26b",
+    "name": "Hub El Bayadh 32 مكتب البيض",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cite CNEP",
+      "city": "El Bayadh",
+      "cityTerritoryId": "dca8b699-ce8b-4ad7-b8f2-560e63911383",
+      "district": "El Bayadh",
+      "districtTerritoryId": "2df29ae5-6ee7-40b6-834a-21876f7a3cca",
+      "postalCode": "32012",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 33.671415610069076,
+        "lng": 1.0240732550603318
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770229632",
+      "number2": "+213773038176",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:23:55.6571106+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "9c795633-dfe2-4f46-af02-c5a79fefb55d",
+    "name": "Tri Biskra 07 مركز فرز بسكرة",
+    "type": "sorting-center-hub",
+    "isPickupPoint": false,
+    "isVisible": true,
+    "address": {
+      "street": "Biskra",
+      "city": "Biskra",
+      "cityTerritoryId": "796e70df-1102-44da-9582-2da66ead2ba6",
+      "district": "Biskra",
+      "districtTerritoryId": "b68fb438-5998-491d-9aed-5588cc7f7d1d",
+      "postalCode": "07000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 34.85288071164764,
+        "lng": 5.724193938260301
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213771108793",
+      "number2": "+213671996654"
+    },
+    "createdAt": "2025-11-26T12:47:48.707475+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "e3ed5c0e-2979-4974-adce-c5d9b4680704",
+    "name": "Hub Boumerdes 35 مكتب بومرداس",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Boulevard du 1er Novembre",
+      "city": "Boumerdes",
+      "cityTerritoryId": "f823492c-f79d-4c2d-befe-933bf9917a65",
+      "district": "Boumerdes",
+      "districtTerritoryId": "514b858a-e885-4ae8-a763-f463895a4a5d",
+      "postalCode": "35062",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.76448607626429,
+        "lng": 3.464014463369374
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213773749899",
+      "number2": "+213783395668",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:27:59.7658461+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "12757299-dbd9-43f5-99a6-cabf1dde0f98",
+    "name": "Tri Skikda 21 مركز فرز سكيكدة",
+    "type": "sorting-center-hub",
+    "isPickupPoint": false,
+    "isVisible": true,
+    "address": {
+      "street": "Rue Mekki Ourtilani",
+      "city": "Skikda",
+      "cityTerritoryId": "a9df7e26-1086-4319-8a93-19969c99c89b",
+      "district": "Skikda",
+      "districtTerritoryId": "60904459-b12f-4981-be5c-cb411be40939",
+      "postalCode": "21001",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.88156211839718,
+        "lng": 6.906382441520692
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213659060889",
+      "number2": "+213659060889",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:18:36.5132034+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "ad2ca91e-cf67-44d3-a240-cebc19bc7c69",
+    "name": "Hub Béchar 08 مكتب بشار",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Aissat Idir (la cité)",
+      "city": "Bechar",
+      "cityTerritoryId": "e740c188-2bbc-4206-8999-302b17dc0e4b",
+      "district": "Bechar",
+      "districtTerritoryId": "fbd1d735-fbd9-47f1-a785-dc0fcaf37e5f",
+      "postalCode": "08000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 31.617048316568876,
+        "lng": -2.214828729629517
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213673892326",
+      "number2": "+213673892326",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:06:06.4011474+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "944d0e5f-a21c-48d7-91cf-d6541663b504",
+    "name": "Hub Tissemsilt 38 مكتب تيسمسيلت",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité El Marja 165 logements",
+      "city": "Tissemsilt",
+      "cityTerritoryId": "fb1a9f7a-81a2-4825-af92-79f9d187637f",
+      "district": "Tissemsilt",
+      "districtTerritoryId": "feb4275d-ced4-4233-b10f-8615dfa399c3",
+      "postalCode": "38000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 35.605838156782596,
+        "lng": 1.802060382792901
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770798060",
+      "number2": "+213770798051",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:34:55.5004448+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "f063811e-0c82-4d83-880e-d871c913d094",
+    "name": "Hub Mila 43 مكتب ميلة",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Sonelgaz",
+      "city": "Mila",
+      "cityTerritoryId": "0c8476c5-bbe4-46e4-80e5-67d3501195cc",
+      "district": "Mila",
+      "districtTerritoryId": "00f73d0e-a315-461c-b860-9fd15b5abf31",
+      "postalCode": "43000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.44518200833835,
+        "lng": 6.261607130127263
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213657224773",
+      "number2": "+213659525382",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:45:28.1447128+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "b7b663f5-2098-488a-80c4-de62a3241cd3",
+    "name": "Hub Jijel 18 مكتب جيجل",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Frères Kamel",
+      "city": "Jijel",
+      "cityTerritoryId": "dc851e52-55b2-4beb-a7f1-79d4e73e9458",
+      "district": "Jijel",
+      "districtTerritoryId": "265156d8-3b41-4323-b627-43143e351c96",
+      "postalCode": "18000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.80259926733944,
+        "lng": 5.747808107339046
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213657254490",
+      "number2": "+213657254490",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:06:22.773231+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "0902076b-b768-4195-8cb4-dec46be70237",
+    "name": "Hub Hassi Messaoud 30 مكتب حاسي مسعود",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité 60 Logts",
+      "city": "Ouargla",
+      "cityTerritoryId": "ada333a0-708d-476e-a97d-fd70fe661b09",
+      "district": "Hassi Messaoud",
+      "districtTerritoryId": "4c482c26-4bc3-4ccc-8034-c6acb036f0d8",
+      "postalCode": "30007",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 31.70327180567284,
+        "lng": 6.067806358979768
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770558888",
+      "number2": "+213770558888",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T12:01:29.8887211+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "35bbaf96-3ea6-48e9-84c6-e00e0f20f807",
+    "name": "Tri Tiaret 14 مركز فرز تيارت",
+    "type": "sorting-center-hub",
+    "isPickupPoint": false,
+    "isVisible": true,
+    "address": {
+      "street": "Rue Houari Abed",
+      "city": "Tiaret",
+      "cityTerritoryId": "ada5bb27-ffe5-4977-a917-3105c2b3d9c6",
+      "district": "Tiaret",
+      "districtTerritoryId": "12959b60-f371-4c4b-9d97-152018576232",
+      "postalCode": "14000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 35.36961167543908,
+        "lng": 1.3278436660766604
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213662361611",
+      "number2": "",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:32:20.9888284+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "7a6de770-a039-43ff-9180-e1668a0ab61e",
+    "name": "Hub Tiaret 14 مكتب تيارت",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "route de l'académie ",
+      "city": "Tiaret",
+      "cityTerritoryId": "ada5bb27-ffe5-4977-a917-3105c2b3d9c6",
+      "district": "Tiaret",
+      "districtTerritoryId": "12959b60-f371-4c4b-9d97-152018576232",
+      "postalCode": "14000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 35.36311435995687,
+        "lng": 1.3216053672048658
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213663971431",
+      "number2": "+213770797231",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:29:43.7550457+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "3dba88d9-0916-436f-ba0f-e22b4826bb1c",
+    "name": "Hub Ain Defla 44 مكتب عين الدفلة",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité Colonel Djilali Bounaama",
+      "city": "Ain Defla",
+      "cityTerritoryId": "8d2d130f-460c-4867-85ef-641341a4d586",
+      "district": "Ain-Defla",
+      "districtTerritoryId": "997e7a95-bc11-405e-bce3-2814e0ed7f32",
+      "postalCode": "44000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.26154444600891,
+        "lng": 1.9771961916714313
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770994268",
+      "number2": "+213770994579",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:48:02.4680954+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "c97cda8a-2502-4cf8-95de-eae2db668f47",
+    "name": "Hub Constantine 25 مكتب قسنطينة",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité Kadri Ibrahim",
+      "city": "Constantine",
+      "cityTerritoryId": "e9a1e9cf-8475-4768-94cc-0888d094ff47",
+      "district": "Constantine",
+      "districtTerritoryId": "62ad6630-4eb8-4c51-85b7-8802b562ddc3",
+      "postalCode": "25016",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.2653051270532,
+        "lng": 6.592828846422557
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770777159",
+      "number2": "+213770777159",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:31:01.9497687+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "56d7c4ed-8514-41a8-b2c5-eb76c226d777",
+    "name": "Tri Médéa 26 مركز فرز المدية",
+    "type": "sorting-center-hub",
+    "isPickupPoint": false,
+    "isVisible": true,
+    "address": {
+      "street": "Kabinda",
+      "city": "Medea",
+      "cityTerritoryId": "0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff",
+      "district": "Medea",
+      "districtTerritoryId": "60f4499d-cead-453c-bc3a-5b19201d2627",
+      "postalCode": "26800",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.278546004992386,
+        "lng": 2.7640007870812027
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213779460270",
+      "number2": "+213781279619",
+      "number3": ""
+    },
+    "createdAt": "2025-11-26T12:28:40.1120097+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "7b43d667-242f-4e37-aa53-ed12fe8bdc8f",
+    "name": "Hub Canastel 31 مكتب كاناستال",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Canastel",
+      "city": "Oran",
+      "cityTerritoryId": "e772eb46-276a-4f41-bae7-3b67e1bdc616",
+      "district": "Oran",
+      "districtTerritoryId": "d43a3c18-2d6a-4063-a980-c419e53f19a9",
+      "postalCode": "31093",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 35.735570227411166,
+        "lng": -0.568970686847845
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770601317",
+      "number2": "+213770601317",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T12:05:06.6107797+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "9d812d89-6758-48f4-8160-ed33703a29e4",
+    "name": "Hub Tebessa 12 مكتب تبسة",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Larbi Tebessi",
+      "city": "Tebessa",
+      "cityTerritoryId": "5afdfab6-e505-4691-abc7-5e8bd79afad5",
+      "district": "Tebessa",
+      "districtTerritoryId": "e944ad9c-f555-4b6c-a6e2-ca17d95df2cc",
+      "postalCode": "12000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 35.410698,
+        "lng": 8.0903058
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213659430681",
+      "number2": "+213775647514",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:25:34.1437359+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "da659108-041c-409e-abb9-ef145cca86a1",
+    "name": "Oum El Bouaghi04مكتب أم بواقي",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "cité el Nasr ",
+      "city": "Oum El Bouaghi",
+      "cityTerritoryId": "37c70742-df6b-4019-981a-a16a29a14748",
+      "district": "Oum El Bouaghi",
+      "districtTerritoryId": "340d6a99-c51e-4875-bbbe-fd4434aafa80",
+      "postalCode": "04000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 35.87006853800433,
+        "lng": 7.1135079860687265
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213698631234",
+      "number2": "+213672961016",
+      "number3": ""
+    },
+    "createdAt": "2025-11-06T23:38:23.5935991+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "658c43cb-5246-4c47-92c1-f37d88eece72",
+    "name": "Hub Biskra 07 مكتب بسكرة",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité El-Kors",
+      "city": "Biskra",
+      "cityTerritoryId": "796e70df-1102-44da-9582-2da66ead2ba6",
+      "district": "Biskra",
+      "districtTerritoryId": "b68fb438-5998-491d-9aed-5588cc7f7d1d",
+      "postalCode": "07000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 34.850221,
+        "lng": 5.6991077
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213771108793",
+      "number2": "+213671996654",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:03:45.5099176+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "f5e07fa1-fd59-421d-a17d-f3d5d1c029ff",
+    "name": "Hub Lidou 16  مكتب برج الكيفان",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Mouhous",
+      "city": "Alger",
+      "cityTerritoryId": "d134c182-7dac-4655-9d9b-bbdb62aa2ec4",
+      "district": "Bordj El Kiffan",
+      "districtTerritoryId": "d8be2c16-186e-4d85-bd70-9676b18b61e2",
+      "postalCode": "16411",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.74450854259234,
+        "lng": 3.1814706088619764
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770363902",
+      "number2": "+213770363902",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:52:04.8595264+00:00",
+    "paymentRequestEligibilityCutoffTime": "12:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "c6f7b6ea-9d8a-4985-af1c-f5849ace5d1f",
+    "name": "Tri Blida 09 مركز فرز البليدة",
+    "type": "sorting-center-hub",
+    "isPickupPoint": false,
+    "isVisible": true,
+    "address": {
+      "street": "Bab Khouikha",
+      "city": "Blida",
+      "cityTerritoryId": "a7e764cf-e9ca-4c1f-8232-89852d102aec",
+      "district": "Blida",
+      "districtTerritoryId": "d3866552-a62a-46e6-a6b2-8f9eb0c0249d",
+      "postalCode": "09000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.476972008659665,
+        "lng": 2.8240656852722172
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213562294214",
+      "number2": "+213770772111",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T00:19:14.0540155+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "46a61165-5378-484d-a0c9-f5c1df785df9",
+    "name": "Hub Chlef 02 مكتب الشلف",
+    "type": "hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité arroudj",
+      "city": "Chlef",
+      "cityTerritoryId": "981f136a-996f-463e-a536-8e643daab193",
+      "district": "Chlef",
+      "districtTerritoryId": "fc22bf39-a1f5-44bf-ac5e-b25280768926",
+      "postalCode": "02000",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.16609785781377,
+        "lng": 1.337542533874512
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770186232",
+      "number2": "+213770994675",
+      "number3": ""
+    },
+    "createdAt": "2025-11-06T23:02:54.2187516+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "65adf95c-e1a3-4c1e-a85d-f9f4c6dc6cf3",
+    "name": "Hub Djelfa 17 مكتب الجلفة",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Cité Berrbih",
+      "city": "Djelfa",
+      "cityTerritoryId": "9ee8eac2-77e5-4d70-ac49-bde455d06bee",
+      "district": "Djelfa",
+      "districtTerritoryId": "71e815a4-6f1d-4bc7-815c-5a45cc4153d1",
+      "postalCode": "17007",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 34.66185035778222,
+        "lng": 3.2462689624707375
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213657700176",
+      "number2": "+213770451600",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T11:03:36.4054017+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "2429e83e-a56d-4069-9205-fc70fec84725",
+    "name": "Tri Souakria 16 مركز فرز سواكرية",
+    "type": "sorting-center",
+    "isPickupPoint": false,
+    "isVisible": true,
+    "address": {
+      "street": "Souakria",
+      "city": "Alger",
+      "cityTerritoryId": "d134c182-7dac-4655-9d9b-bbdb62aa2ec4",
+      "district": "Les Eucalyptus",
+      "districtTerritoryId": "68a7377a-1fa3-427a-b136-f5c1842cffc2",
+      "postalCode": "16057",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 36.65097653718505,
+        "lng": 3.205052492244245
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770085300",
+      "number2": "",
+      "number3": ""
+    },
+    "createdAt": "2025-11-08T01:06:48.6689121+00:00",
+    "paymentRequestEligibilityCutoffTime": "12:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  },
+  {
+    "id": "7d6e7a8c-c5b0-4495-8271-fcf24efd3d7d",
+    "name": "Hub Ouled Djellal 51 مكتب أولاد جلال",
+    "type": "sorting-center-hub",
+    "isPickupPoint": true,
+    "isVisible": true,
+    "address": {
+      "street": "Elrahba",
+      "city": "Ouled Djellal",
+      "cityTerritoryId": "0f2dab00-094c-412c-a7d0-ebd0268d3d3c",
+      "district": "Ouled Djellal",
+      "districtTerritoryId": "f65f6d03-b3de-4dbb-ad77-c9f0f6a5f041",
+      "postalCode": "07400",
+      "country": "algeria",
+      "coordinates": {
+        "lat": 34.42362227782358,
+        "lng": 5.065362937567569
+      }
+    },
+    "openingHours": "08:30-16:30",
+    "phone": {
+      "number1": "+213770764905",
+      "number2": "+213770016308",
+      "number3": ""
+    },
+    "createdAt": "2025-11-07T13:59:23.8425907+00:00",
+    "paymentRequestEligibilityCutoffTime": "14:00:00",
+    "paymentRequestEligibilityCutoffTimezoneId": "Africa/Algiers"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "name": "dikrashop-shipping",
+  "version": "2.0.0",
+  "scripts": {
+    "start": "ts-node src/scripts/startServer.ts",
+    "build": "tsc",
+    "process": "ts-node src/scripts/processReadyOrders.ts",
+    "retry": "ts-node src/scripts/retryFailedOrders.ts",
+    "single": "ts-node src/scripts/processSingleOrder.ts",
+    "territories": "ts-node src/scripts/searchTerritories.ts",
+    "moon": "ts-node src/scripts/generateMoonDesign.ts",
+    "fetch:territories": "ts-node src/scripts/fetchTerritories.ts",
+    "fetch:rates": "ts-node src/scripts/fetchRates.ts",
+    "fetch:hubs": "ts-node src/scripts/fetchHubs.ts",
+    "build:hub-map": "ts-node src/scripts/buildHubPriceMap.ts",
+    "build:stop-desks": "ts-node src/scripts/buildStopDesks.ts",
+    "fetch:all": "npm run fetch:territories && npm run fetch:rates && npm run fetch:hubs && npm run build:hub-map && npm run build:stop-desks"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.15",
+    "axios": "^1.6.7",
+    "canvas": "^2.11.2",
+    "dotenv": "^16.4.4",
+    "express": "^5.2.1",
+    "uuid": "^9.0.0",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^20.11.20",
+    "@types/uuid": "^9.0.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}

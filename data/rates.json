@@ -1,0 +1,3403 @@
+[
+  {
+    "territoryId": "87242bb1-1459-4133-ae4a-03283cb317b8",
+    "territoryName": "Charef",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "87242bb1-1459-4133-ae4a-03283cb317b8",
+      "toTerritoryName": "Charef",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "749cf9aa-5332-4e89-95e2-0db8b7b9a870",
+    "territoryName": "Zaccar",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "749cf9aa-5332-4e89-95e2-0db8b7b9a870",
+      "toTerritoryName": "Zaccar",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "04f01a73-4fc0-4188-b97c-10374fddae87",
+    "territoryName": "Deldoul",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "04f01a73-4fc0-4188-b97c-10374fddae87",
+      "toTerritoryName": "Deldoul",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "f9d26ad9-3dd2-4617-9f35-165c2bb47c96",
+    "territoryName": "Dar Chioukh",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "f9d26ad9-3dd2-4617-9f35-165c2bb47c96",
+      "toTerritoryName": "Dar Chioukh",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "bc348d89-60c2-4cef-ae8e-1de738e2eff4",
+    "territoryName": "Moudjebara",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "bc348d89-60c2-4cef-ae8e-1de738e2eff4",
+      "toTerritoryName": "Moudjebara",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "71403d4c-8957-45b2-82a5-26cfbf5d085c",
+    "territoryName": "Benhar",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "71403d4c-8957-45b2-82a5-26cfbf5d085c",
+      "toTerritoryName": "Benhar",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "86545337-257d-4723-b269-2830ec064d49",
+    "territoryName": "Zaafrane",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "86545337-257d-4723-b269-2830ec064d49",
+      "toTerritoryName": "Zaafrane",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "d8fa63ab-b187-4100-afd7-2db5da97cf70",
+    "territoryName": "Douis",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "d8fa63ab-b187-4100-afd7-2db5da97cf70",
+      "toTerritoryName": "Douis",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "3057fed3-e947-454e-857f-3d092b57f890",
+    "territoryName": "Ain Chouhada",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "3057fed3-e947-454e-857f-3d092b57f890",
+      "toTerritoryName": "Ain Chouhada",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "cd4613ca-5197-464d-98ff-405797099356",
+    "territoryName": "El Guedid",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "cd4613ca-5197-464d-98ff-405797099356",
+      "toTerritoryName": "El Guedid",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "1b487f47-f977-48fd-804b-405825775980",
+    "territoryName": "Selmana",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "1b487f47-f977-48fd-804b-405825775980",
+      "toTerritoryName": "Selmana",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "a2da2244-979f-445f-905b-409a04587ae5",
+    "territoryName": "Hassi El Euch",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "a2da2244-979f-445f-905b-409a04587ae5",
+      "toTerritoryName": "Hassi El Euch",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "4773dfb9-f709-4eda-901a-425342948842",
+    "territoryName": "Ain El Ibel",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "4773dfb9-f709-4eda-901a-425342948842",
+      "toTerritoryName": "Ain El Ibel",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "b3b91d2e-14b2-4745-ae3a-4f1fd019d1a9",
+    "territoryName": "Had Sahary",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "b3b91d2e-14b2-4745-ae3a-4f1fd019d1a9",
+      "toTerritoryName": "Had Sahary",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "f6eb05c0-4d69-4139-9ce8-55e0f7585bc9",
+    "territoryName": "Sidi Baizid",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "f6eb05c0-4d69-4139-9ce8-55e0f7585bc9",
+      "toTerritoryName": "Sidi Baizid",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "fbe3edc5-8cd6-4fbe-9c54-596817cf3dc5",
+    "territoryName": "Hassi Fedoul",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "fbe3edc5-8cd6-4fbe-9c54-596817cf3dc5",
+      "toTerritoryName": "Hassi Fedoul",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "71e815a4-6f1d-4bc7-815c-5a45cc4153d1",
+    "territoryName": "Djelfa",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "71e815a4-6f1d-4bc7-815c-5a45cc4153d1",
+      "toTerritoryName": "Djelfa",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "92763540-78dc-4772-b328-5db76d2fbbf7",
+    "territoryName": "Benyagoub",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "92763540-78dc-4772-b328-5db76d2fbbf7",
+      "toTerritoryName": "Benyagoub",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "869d81c5-fe4a-424c-8539-6180246b3326",
+    "territoryName": "Taadmit",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "869d81c5-fe4a-424c-8539-6180246b3326",
+      "toTerritoryName": "Taadmit",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "dd3d6284-e3d6-4fe4-b58d-6e47db32cffc",
+    "territoryName": "Guettara",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "dd3d6284-e3d6-4fe4-b58d-6e47db32cffc",
+      "toTerritoryName": "Guettara",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "28ff9434-3b0f-441f-8e2c-7caeaec19d27",
+    "territoryName": "Hassi Bahbah",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "28ff9434-3b0f-441f-8e2c-7caeaec19d27",
+      "toTerritoryName": "Hassi Bahbah",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "1e26af75-5696-4663-8594-810717e4459c",
+    "territoryName": "Bouira Lahdab",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "1e26af75-5696-4663-8594-810717e4459c",
+      "toTerritoryName": "Bouira Lahdab",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "bd302611-b078-4d60-b26d-87b3d32cf68a",
+    "territoryName": "Sed Rahal",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "bd302611-b078-4d60-b26d-87b3d32cf68a",
+      "toTerritoryName": "Sed Rahal",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "1c009513-e4d7-4de3-a109-8bea76104f94",
+    "territoryName": "El Idrissia",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "1c009513-e4d7-4de3-a109-8bea76104f94",
+      "toTerritoryName": "El Idrissia",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "7bf2a1f0-5ff3-4097-b479-8da59132def9",
+    "territoryName": "El Khemis",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "7bf2a1f0-5ff3-4097-b479-8da59132def9",
+      "toTerritoryName": "El Khemis",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "b64649a7-28a2-44ac-affd-b0535e2ea9c4",
+    "territoryName": "Ain Fekka",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "b64649a7-28a2-44ac-affd-b0535e2ea9c4",
+      "toTerritoryName": "Ain Fekka",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "1e2981c0-d88e-4266-a1c8-b8eb5ceb3db9",
+    "territoryName": "Oum Laadham",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "1e2981c0-d88e-4266-a1c8-b8eb5ceb3db9",
+      "toTerritoryName": "Oum Laadham",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "8536796f-1371-4cb5-9656-c618c1df05ea",
+    "territoryName": "M'liliha",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "8536796f-1371-4cb5-9656-c618c1df05ea",
+      "toTerritoryName": "M'liliha",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "1f8d405c-3b15-43f3-a3a5-c71b10ed1cfb",
+    "territoryName": "Birine",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "1f8d405c-3b15-43f3-a3a5-c71b10ed1cfb",
+      "toTerritoryName": "Birine",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "7a8642bf-567f-4a9c-a356-caaf5b13db89",
+    "territoryName": "Ain Oussera",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "7a8642bf-567f-4a9c-a356-caaf5b13db89",
+      "toTerritoryName": "Ain Oussera",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "8d976991-64f7-4114-9814-cb1fb82c9326",
+    "territoryName": "Sidi Laadjel",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "8d976991-64f7-4114-9814-cb1fb82c9326",
+      "toTerritoryName": "Sidi Laadjel",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "232fdd71-1259-456d-a157-d0914d52d52d",
+    "territoryName": "Guernini",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "232fdd71-1259-456d-a157-d0914d52d52d",
+      "toTerritoryName": "Guernini",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "35cee308-14f6-41f7-83fd-d768b8109b00",
+    "territoryName": "Amourah",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "35cee308-14f6-41f7-83fd-d768b8109b00",
+      "toTerritoryName": "Amourah",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "53603004-e032-4d37-8298-d7c2edc58939",
+    "territoryName": "Ain Maabed",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "53603004-e032-4d37-8298-d7c2edc58939",
+      "toTerritoryName": "Ain Maabed",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "5bf79468-e223-4f5d-ab31-e3c4490eaae7",
+    "territoryName": "Faidh El Botma",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "5bf79468-e223-4f5d-ab31-e3c4490eaae7",
+      "toTerritoryName": "Faidh El Botma",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "4342da4b-3869-4c4c-ba51-e6483eba778d",
+    "territoryName": "Messaad",
+    "territoryLevel": "commune",
+    "homePrice": 500,
+    "pickupPointPrice": 370,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "4342da4b-3869-4c4c-ba51-e6483eba778d",
+      "toTerritoryName": "Messaad",
+      "toTerritoryLevel": "commune",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 370,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 500,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "3c05ecdd-cc5d-4afe-8def-056ade0bd6bc",
+    "territoryName": "Unknown",
+    "territoryLevel": "Unknown",
+    "homePrice": 0,
+    "pickupPointPrice": 0,
+    "returnPrice": 0,
+    "raw": {
+      "toTerritoryId": "3c05ecdd-cc5d-4afe-8def-056ade0bd6bc",
+      "toTerritoryName": "Unknown",
+      "toTerritoryLevel": "Unknown",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 0,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 0,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 0,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "e9a1e9cf-8475-4768-94cc-0888d094ff47",
+    "territoryName": "Constantine",
+    "territoryLevel": "wilaya",
+    "homePrice": 850,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "e9a1e9cf-8475-4768-94cc-0888d094ff47",
+      "toTerritoryCode": 25,
+      "toTerritoryName": "Constantine",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 850,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "2d1e61ff-e2af-4b4d-a592-0a6436c5fffd",
+    "territoryName": "Guelma",
+    "territoryLevel": "wilaya",
+    "homePrice": 900,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "2d1e61ff-e2af-4b4d-a592-0a6436c5fffd",
+      "toTerritoryCode": 24,
+      "toTerritoryName": "Guelma",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 900,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff",
+    "territoryName": "Medea",
+    "territoryLevel": "wilaya",
+    "homePrice": 850,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff",
+      "toTerritoryCode": 26,
+      "toTerritoryName": "Medea",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 850,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "a9df7e26-1086-4319-8a93-19969c99c89b",
+    "territoryName": "Skikda",
+    "territoryLevel": "wilaya",
+    "homePrice": 900,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "a9df7e26-1086-4319-8a93-19969c99c89b",
+      "toTerritoryCode": 21,
+      "toTerritoryName": "Skikda",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 900,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "e7b51620-74f4-4748-85c5-216fb9b01b03",
+    "territoryName": "Ghardaia",
+    "territoryLevel": "wilaya",
+    "homePrice": 850,
+    "pickupPointPrice": 570,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "e7b51620-74f4-4748-85c5-216fb9b01b03",
+      "toTerritoryCode": 47,
+      "toTerritoryName": "Ghardaia",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 570,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 850,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "3fd318e8-7c24-480c-a106-21f6c842583d",
+    "territoryName": "Annaba",
+    "territoryLevel": "wilaya",
+    "homePrice": 900,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "3fd318e8-7c24-480c-a106-21f6c842583d",
+      "toTerritoryCode": 23,
+      "toTerritoryName": "Annaba",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 900,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "58a7bf33-d0ea-4671-82f3-24c5a0ba372e",
+    "territoryName": "Unknown",
+    "territoryLevel": "Unknown",
+    "homePrice": 0,
+    "pickupPointPrice": 0,
+    "returnPrice": 0,
+    "raw": {
+      "toTerritoryId": "58a7bf33-d0ea-4671-82f3-24c5a0ba372e",
+      "toTerritoryName": "Unknown",
+      "toTerritoryLevel": "Unknown",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 0,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 0,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 0,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "ecdf0888-0470-4b2f-beb8-24c99b6fc9cb",
+    "territoryName": "Naama",
+    "territoryLevel": "wilaya",
+    "homePrice": 1100,
+    "pickupPointPrice": 670,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "ecdf0888-0470-4b2f-beb8-24c99b6fc9cb",
+      "toTerritoryCode": 45,
+      "toTerritoryName": "Naama",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 670,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 1100,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "796e70df-1102-44da-9582-2da66ead2ba6",
+    "territoryName": "Biskra",
+    "territoryLevel": "wilaya",
+    "homePrice": 950,
+    "pickupPointPrice": 620,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "796e70df-1102-44da-9582-2da66ead2ba6",
+      "toTerritoryCode": 7,
+      "toTerritoryName": "Biskra",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 620,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 950,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "75ca308d-ab36-44e2-9702-2e2300a57b8c",
+    "territoryName": "MSila",
+    "territoryLevel": "wilaya",
+    "homePrice": 850,
+    "pickupPointPrice": 570,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "75ca308d-ab36-44e2-9702-2e2300a57b8c",
+      "toTerritoryCode": 28,
+      "toTerritoryName": "MSila",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 570,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 850,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "cd82549a-b1f7-48c1-9a25-2f3f05b80b1d",
+    "territoryName": "El Oued",
+    "territoryLevel": "wilaya",
+    "homePrice": 950,
+    "pickupPointPrice": 670,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "cd82549a-b1f7-48c1-9a25-2f3f05b80b1d",
+      "toTerritoryCode": 39,
+      "toTerritoryName": "El Oued",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 670,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 950,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "e740c188-2bbc-4206-8999-302b17dc0e4b",
+    "territoryName": "Bechar",
+    "territoryLevel": "wilaya",
+    "homePrice": 1100,
+    "pickupPointPrice": 720,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "e740c188-2bbc-4206-8999-302b17dc0e4b",
+      "toTerritoryCode": 8,
+      "toTerritoryName": "Bechar",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 720,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 1100,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "ada5bb27-ffe5-4977-a917-3105c2b3d9c6",
+    "territoryName": "Tiaret",
+    "territoryLevel": "wilaya",
+    "homePrice": 850,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "ada5bb27-ffe5-4977-a917-3105c2b3d9c6",
+      "toTerritoryCode": 14,
+      "toTerritoryName": "Tiaret",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 850,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "f30136dc-3012-4ac7-912c-33eab37393a9",
+    "territoryName": "In Guezzam",
+    "territoryLevel": "wilaya",
+    "homePrice": 1700,
+    "pickupPointPrice": 0,
+    "returnPrice": 300,
+    "raw": {
+      "toTerritoryId": "f30136dc-3012-4ac7-912c-33eab37393a9",
+      "toTerritoryCode": 54,
+      "toTerritoryName": "In Guezzam",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 0,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 1700,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 300,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "56ee938d-7887-408e-8731-364d07ad3594",
+    "territoryName": "Setif",
+    "territoryLevel": "wilaya",
+    "homePrice": 850,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "56ee938d-7887-408e-8731-364d07ad3594",
+      "toTerritoryCode": 19,
+      "toTerritoryName": "Setif",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 850,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "eabb6505-5eef-479f-b6a3-36ba282d5237",
+    "territoryName": "El Meghaier",
+    "territoryLevel": "wilaya",
+    "homePrice": 950,
+    "pickupPointPrice": 0,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "eabb6505-5eef-479f-b6a3-36ba282d5237",
+      "toTerritoryCode": 57,
+      "toTerritoryName": "El Meghaier",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 0,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 950,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "a8c05822-e30a-4d5a-bcb3-3b3bb23c079b",
+    "territoryName": "Batna",
+    "territoryLevel": "wilaya",
+    "homePrice": 900,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "a8c05822-e30a-4d5a-bcb3-3b3bb23c079b",
+      "toTerritoryCode": 5,
+      "toTerritoryName": "Batna",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 900,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "e772eb46-276a-4f41-bae7-3b67e1bdc616",
+    "territoryName": "Oran",
+    "territoryLevel": "wilaya",
+    "homePrice": 850,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "e772eb46-276a-4f41-bae7-3b67e1bdc616",
+      "toTerritoryCode": 31,
+      "toTerritoryName": "Oran",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 850,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "56d30b7a-465a-462c-bc2a-3e132c89be63",
+    "territoryName": "Souk Ahras",
+    "territoryLevel": "wilaya",
+    "homePrice": 900,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "56d30b7a-465a-462c-bc2a-3e132c89be63",
+      "toTerritoryCode": 41,
+      "toTerritoryName": "Souk Ahras",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 900,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "ad58c5ee-868d-4acb-8f03-409f97a10370",
+    "territoryName": "Relizane",
+    "territoryLevel": "wilaya",
+    "homePrice": 900,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "ad58c5ee-868d-4acb-8f03-409f97a10370",
+      "toTerritoryCode": 48,
+      "toTerritoryName": "Relizane",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 900,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "53c9e062-9c4e-4c77-8b71-55eabf887f83",
+    "territoryName": "Tlemcen",
+    "territoryLevel": "wilaya",
+    "homePrice": 900,
+    "pickupPointPrice": 570,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "53c9e062-9c4e-4c77-8b71-55eabf887f83",
+      "toTerritoryCode": 13,
+      "toTerritoryName": "Tlemcen",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 570,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 900,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "dca8b699-ce8b-4ad7-b8f2-560e63911383",
+    "territoryName": "El Bayadh",
+    "territoryLevel": "wilaya",
+    "homePrice": 1100,
+    "pickupPointPrice": 670,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "dca8b699-ce8b-4ad7-b8f2-560e63911383",
+      "toTerritoryCode": 32,
+      "toTerritoryName": "El Bayadh",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 670,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 1100,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "2cec2b2a-cc37-480a-9183-59fdfdb65cd4",
+    "territoryName": "Sidi Bel Abbes",
+    "territoryLevel": "wilaya",
+    "homePrice": 900,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "2cec2b2a-cc37-480a-9183-59fdfdb65cd4",
+      "toTerritoryCode": 22,
+      "toTerritoryName": "Sidi Bel Abbes",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 900,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "d4549528-8327-4a3f-9732-5a5462c84b8d",
+    "territoryName": "Khenchela",
+    "territoryLevel": "wilaya",
+    "homePrice": 900,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "d4549528-8327-4a3f-9732-5a5462c84b8d",
+      "toTerritoryCode": 40,
+      "toTerritoryName": "Khenchela",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 900,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "5afdfab6-e505-4691-abc7-5e8bd79afad5",
+    "territoryName": "Tebessa",
+    "territoryLevel": "wilaya",
+    "homePrice": 900,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "5afdfab6-e505-4691-abc7-5e8bd79afad5",
+      "toTerritoryCode": 12,
+      "toTerritoryName": "Tebessa",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 900,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "27b2042a-77f8-4c91-b62d-60934fa0daca",
+    "territoryName": "Saida",
+    "territoryLevel": "wilaya",
+    "homePrice": 900,
+    "pickupPointPrice": 570,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "27b2042a-77f8-4c91-b62d-60934fa0daca",
+      "toTerritoryCode": 20,
+      "toTerritoryName": "Saida",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 570,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 900,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "6e978fc5-f20a-4b5f-9adf-61dd21a7672a",
+    "territoryName": "Adrar",
+    "territoryLevel": "wilaya",
+    "homePrice": 1400,
+    "pickupPointPrice": 970,
+    "returnPrice": 300,
+    "raw": {
+      "toTerritoryId": "6e978fc5-f20a-4b5f-9adf-61dd21a7672a",
+      "toTerritoryCode": 1,
+      "toTerritoryName": "Adrar",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 970,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 1400,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 300,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "8d2d130f-460c-4867-85ef-641341a4d586",
+    "territoryName": "Ain Defla",
+    "territoryLevel": "wilaya",
+    "homePrice": 900,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "8d2d130f-460c-4867-85ef-641341a4d586",
+      "toTerritoryCode": 44,
+      "toTerritoryName": "Ain Defla",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 900,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "0c8476c5-bbe4-46e4-80e5-67d3501195cc",
+    "territoryName": "Mila",
+    "territoryLevel": "wilaya",
+    "homePrice": 900,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "0c8476c5-bbe4-46e4-80e5-67d3501195cc",
+      "toTerritoryCode": 43,
+      "toTerritoryName": "Mila",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 900,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "ba12c65c-de9e-4f30-a449-6ba0b27dd7d7",
+    "territoryName": "Beni Abbes",
+    "territoryLevel": "wilaya",
+    "homePrice": 1200,
+    "pickupPointPrice": 970,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "ba12c65c-de9e-4f30-a449-6ba0b27dd7d7",
+      "toTerritoryCode": 52,
+      "toTerritoryName": "Beni Abbes",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 970,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 1200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "cb7e15ff-1bec-42d7-9907-6f9f8becafd2",
+    "territoryName": "Unknown",
+    "territoryLevel": "Unknown",
+    "homePrice": 0,
+    "pickupPointPrice": 0,
+    "returnPrice": 0,
+    "raw": {
+      "toTerritoryId": "cb7e15ff-1bec-42d7-9907-6f9f8becafd2",
+      "toTerritoryName": "Unknown",
+      "toTerritoryLevel": "Unknown",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 0,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 0,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 0,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b",
+    "territoryName": "Laghouat",
+    "territoryLevel": "wilaya",
+    "homePrice": 750,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b",
+      "toTerritoryCode": 3,
+      "toTerritoryName": "Laghouat",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 750,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "dc851e52-55b2-4beb-a7f1-79d4e73e9458",
+    "territoryName": "Jijel",
+    "territoryLevel": "wilaya",
+    "homePrice": 900,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "dc851e52-55b2-4beb-a7f1-79d4e73e9458",
+      "toTerritoryCode": 18,
+      "toTerritoryName": "Jijel",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 900,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "fb1a9f7a-81a2-4825-af92-79f9d187637f",
+    "territoryName": "Tissemsilt",
+    "territoryLevel": "wilaya",
+    "homePrice": 900,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "fb1a9f7a-81a2-4825-af92-79f9d187637f",
+      "toTerritoryCode": 38,
+      "toTerritoryName": "Tissemsilt",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 900,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "bc5cd378-043d-43c5-88f8-7fd82a365fe6",
+    "territoryName": "Unknown",
+    "territoryLevel": "Unknown",
+    "homePrice": 0,
+    "pickupPointPrice": 0,
+    "returnPrice": 0,
+    "raw": {
+      "toTerritoryId": "bc5cd378-043d-43c5-88f8-7fd82a365fe6",
+      "toTerritoryName": "Unknown",
+      "toTerritoryLevel": "Unknown",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 0,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 0,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 0,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "442d8a1c-2e12-4a8a-9c7e-8618aac20280",
+    "territoryName": "Touggourt",
+    "territoryLevel": "wilaya",
+    "homePrice": 950,
+    "pickupPointPrice": 670,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "442d8a1c-2e12-4a8a-9c7e-8618aac20280",
+      "toTerritoryCode": 55,
+      "toTerritoryName": "Touggourt",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 670,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 950,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "a7e764cf-e9ca-4c1f-8232-89852d102aec",
+    "territoryName": "Blida",
+    "territoryLevel": "wilaya",
+    "homePrice": 850,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "a7e764cf-e9ca-4c1f-8232-89852d102aec",
+      "toTerritoryCode": 9,
+      "toTerritoryName": "Blida",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 850,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "80d1b557-03b2-4073-a8c2-89a8712a7fc8",
+    "territoryName": "Bordj Bou Arreridj",
+    "territoryLevel": "wilaya",
+    "homePrice": 800,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "80d1b557-03b2-4073-a8c2-89a8712a7fc8",
+      "toTerritoryCode": 34,
+      "toTerritoryName": "Bordj Bou Arreridj",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 800,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "a17a6482-3f48-4948-aaf2-8a653c4c1110",
+    "territoryName": "Mascara",
+    "territoryLevel": "wilaya",
+    "homePrice": 900,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "a17a6482-3f48-4948-aaf2-8a653c4c1110",
+      "toTerritoryCode": 29,
+      "toTerritoryName": "Mascara",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 900,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "5bef8e95-fad8-4a15-95f0-8d6f5c80f69e",
+    "territoryName": "Tizi Ouzou",
+    "territoryLevel": "wilaya",
+    "homePrice": 850,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "5bef8e95-fad8-4a15-95f0-8d6f5c80f69e",
+      "toTerritoryCode": 15,
+      "toTerritoryName": "Tizi Ouzou",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 850,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "981f136a-996f-463e-a536-8e643daab193",
+    "territoryName": "Chlef",
+    "territoryLevel": "wilaya",
+    "homePrice": 850,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "981f136a-996f-463e-a536-8e643daab193",
+      "toTerritoryCode": 2,
+      "toTerritoryName": "Chlef",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 850,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "f823492c-f79d-4c2d-befe-933bf9917a65",
+    "territoryName": "Boumerdes",
+    "territoryLevel": "wilaya",
+    "homePrice": 800,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "f823492c-f79d-4c2d-befe-933bf9917a65",
+      "toTerritoryCode": 35,
+      "toTerritoryName": "Boumerdes",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 800,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "295585ad-4cf4-4b7e-b276-9bb62d019749",
+    "territoryName": "Bejaia",
+    "territoryLevel": "wilaya",
+    "homePrice": 850,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "295585ad-4cf4-4b7e-b276-9bb62d019749",
+      "toTerritoryCode": 6,
+      "toTerritoryName": "Bejaia",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 850,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "37c70742-df6b-4019-981a-a16a29a14748",
+    "territoryName": "Oum El Bouaghi",
+    "territoryLevel": "wilaya",
+    "homePrice": 850,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "37c70742-df6b-4019-981a-a16a29a14748",
+      "toTerritoryCode": 4,
+      "toTerritoryName": "Oum El Bouaghi",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 850,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "38560f06-e049-4fd2-9664-a655e552b517",
+    "territoryName": "Tamanrasset",
+    "territoryLevel": "wilaya",
+    "homePrice": 1700,
+    "pickupPointPrice": 1170,
+    "returnPrice": 300,
+    "raw": {
+      "toTerritoryId": "38560f06-e049-4fd2-9664-a655e552b517",
+      "toTerritoryCode": 11,
+      "toTerritoryName": "Tamanrasset",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 1170,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 1700,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 300,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "bcb30485-37b5-4135-a508-acad8a8a9cf8",
+    "territoryName": "Timimoun",
+    "territoryLevel": "wilaya",
+    "homePrice": 1400,
+    "pickupPointPrice": 970,
+    "returnPrice": 300,
+    "raw": {
+      "toTerritoryId": "bcb30485-37b5-4135-a508-acad8a8a9cf8",
+      "toTerritoryCode": 49,
+      "toTerritoryName": "Timimoun",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 970,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 1400,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 300,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "d134c182-7dac-4655-9d9b-bbdb62aa2ec4",
+    "territoryName": "Alger",
+    "territoryLevel": "wilaya",
+    "homePrice": 650,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "d134c182-7dac-4655-9d9b-bbdb62aa2ec4",
+      "toTerritoryCode": 16,
+      "toTerritoryName": "Alger",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 650,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "1435179a-6dbb-4d9c-a186-c521b2a57319",
+    "territoryName": "Tipaza",
+    "territoryLevel": "wilaya",
+    "homePrice": 800,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "1435179a-6dbb-4d9c-a186-c521b2a57319",
+      "toTerritoryCode": 42,
+      "toTerritoryName": "Tipaza",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 800,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "d7175ca6-6dd7-4dfb-a399-d388e782473a",
+    "territoryName": "Mostaganem",
+    "territoryLevel": "wilaya",
+    "homePrice": 900,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "d7175ca6-6dd7-4dfb-a399-d388e782473a",
+      "toTerritoryCode": 27,
+      "toTerritoryName": "Mostaganem",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 900,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "e6f4b09c-f63e-42af-92bc-dab9b422c34d",
+    "territoryName": "El Tarf",
+    "territoryLevel": "wilaya",
+    "homePrice": 850,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "e6f4b09c-f63e-42af-92bc-dab9b422c34d",
+      "toTerritoryCode": 36,
+      "toTerritoryName": "El Tarf",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 850,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "fc460ec5-3e71-489c-b95b-e5301ea68341",
+    "territoryName": "Ain Temouchent",
+    "territoryLevel": "wilaya",
+    "homePrice": 900,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "fc460ec5-3e71-489c-b95b-e5301ea68341",
+      "toTerritoryCode": 46,
+      "toTerritoryName": "Ain Temouchent",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 900,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "3d19d427-08f3-492c-a1d0-e7ace3516ed2",
+    "territoryName": "El Menia",
+    "territoryLevel": "wilaya",
+    "homePrice": 1000,
+    "pickupPointPrice": 670,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "3d19d427-08f3-492c-a1d0-e7ace3516ed2",
+      "toTerritoryCode": 58,
+      "toTerritoryName": "El Menia",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 670,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 1000,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "0f2dab00-094c-412c-a7d0-ebd0268d3d3c",
+    "territoryName": "Ouled Djellal",
+    "territoryLevel": "wilaya",
+    "homePrice": 950,
+    "pickupPointPrice": 620,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "0f2dab00-094c-412c-a7d0-ebd0268d3d3c",
+      "toTerritoryCode": 51,
+      "toTerritoryName": "Ouled Djellal",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 620,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 950,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "7c752560-8412-4e11-8c75-ed7cd9c22be2",
+    "territoryName": "In Salah",
+    "territoryLevel": "wilaya",
+    "homePrice": 1700,
+    "pickupPointPrice": 1170,
+    "returnPrice": 300,
+    "raw": {
+      "toTerritoryId": "7c752560-8412-4e11-8c75-ed7cd9c22be2",
+      "toTerritoryCode": 53,
+      "toTerritoryName": "In Salah",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 1170,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 1700,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 300,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "a1f0229c-4f34-40aa-9238-fadde6757cba",
+    "territoryName": "Bouira",
+    "territoryLevel": "wilaya",
+    "homePrice": 850,
+    "pickupPointPrice": 520,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "a1f0229c-4f34-40aa-9238-fadde6757cba",
+      "toTerritoryCode": 10,
+      "toTerritoryName": "Bouira",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 520,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 850,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  },
+  {
+    "territoryId": "ada333a0-708d-476e-a97d-fd70fe661b09",
+    "territoryName": "Ouargla",
+    "territoryLevel": "wilaya",
+    "homePrice": 950,
+    "pickupPointPrice": 670,
+    "returnPrice": 200,
+    "raw": {
+      "toTerritoryId": "ada333a0-708d-476e-a97d-fd70fe661b09",
+      "toTerritoryCode": 30,
+      "toTerritoryName": "Ouargla",
+      "toTerritoryLevel": "wilaya",
+      "deliveryPrices": [
+        {
+          "deliveryType": "pickup-point",
+          "price": 670,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "home",
+          "price": 950,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        },
+        {
+          "deliveryType": "return",
+          "price": 200,
+          "discountedPrice": null,
+          "isSpecificPrice": false,
+          "specificPriceId": null
+        }
+      ]
+    }
+  }
+]

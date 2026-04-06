@@ -1,0 +1,9 @@
+{
+  "_comment": "Manual name aliases for hub <-> territory reconciliation.",
+  "_comment2": "Key = hub city name as returned by ZR API, Value = territory name as returned by ZR API.",
+  "_comment3": "Only needed for names that don't match after normalization (lowercase + trim).",
+  "_comment4": "Example: 'El Menia' appears in rates but territories use 'El Meniaa'",
+  "El Menia": "El Menia",
+  "MSila": "MSila",
+  "Ouled Djellal": "Ouled Djellal"
+}
