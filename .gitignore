@@ -2,5 +2,7 @@ node_modules/
 dist/
 .env
 labels/
+output/
 *.log
 .DS_Store
+*.pdf
