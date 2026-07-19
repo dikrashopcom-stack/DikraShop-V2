@@ -14,6 +14,27 @@ app.get("/", (_req, res) => {
   res.json({ status: "ok", service: "dikrashop-shipping" });
 });
 
+// Shallow liveness — process is up and serving.
+app.get("/healthz", (_req, res) => {
+  res.status(200).json({ status: "ok" });
+});
+
+// Readiness — the config the service needs to operate SAFELY in production is present.
+// In production, missing SHOPIFY_WEBHOOK_SECRET means the HMAC guard rejects everything,
+// so we report not-ready (503) rather than accept traffic that will all 401.
+app.get("/readyz", (_req, res) => {
+  const checks = {
+    shopifyWebhookSecret: Boolean(env.SHOPIFY_WEBHOOK_SECRET),
+    zrWebhookSecret: Boolean(env.WEBHOOK_SECRET),
+  };
+  const requiredInProd = env.NODE_ENV !== "production" || checks.shopifyWebhookSecret;
+  res.status(requiredInProd ? 200 : 503).json({
+    status: requiredInProd ? "ready" : "not-ready",
+    nodeEnv: env.NODE_ENV,
+    checks,
+  });
+});
+
 app.post("/webhooks/orders/create", handleOrderCreate);
 app.use("/webhooks/zrexpress", zrWebhookRouter);
 

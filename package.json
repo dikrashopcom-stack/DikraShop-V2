@@ -2,8 +2,10 @@
   "name": "dikrashop-shipping",
   "version": "2.0.0",
   "scripts": {
-    "start": "ts-node src/scripts/startServer.ts",
+    "start": "node dist/scripts/startServer.js",
+    "dev": "ts-node src/scripts/startServer.ts",
     "build": "tsc",
+    "typecheck": "tsc --noEmit",
     "process": "ts-node src/scripts/processReadyOrders.ts",
     "retry": "ts-node src/scripts/retryFailedOrders.ts",
     "single": "ts-node src/scripts/processSingleOrder.ts",

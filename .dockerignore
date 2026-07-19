@@ -1,0 +1,15 @@
+node_modules
+dist
+labels
+output
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+.git
+.gitignore
+test
+README.md
+*.bak
+*.pdf
