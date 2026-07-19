@@ -78,7 +78,19 @@ export async function registerShopifyWebhook(): Promise<void> {
         let data = "";
         res.on("data", (chunk) => (data += chunk));
         res.on("end", () => {
-          const parsed = JSON.parse(data);
+          // A non-JSON body (HTML 5xx page, empty body) would throw here; guard it so
+          // the failure is logged and the promise resolves instead of crashing startup.
+          let parsed: { webhook?: { address?: string; id?: number }; errors?: unknown };
+          try {
+            parsed = JSON.parse(data);
+          } catch {
+            logger.error("Shopify webhook registration — non-JSON response", {
+              status: res.statusCode,
+              body: data.slice(0, 300),
+            });
+            resolve();
+            return;
+          }
           if (parsed.webhook) {
             logger.info("Shopify webhook registered", { address: parsed.webhook.address, id: parsed.webhook.id });
           } else if (parsed.errors) {

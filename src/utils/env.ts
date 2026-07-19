@@ -4,6 +4,7 @@ import { z } from "zod";
 dotenv.config();
 
 const envSchema = z.object({
+  NODE_ENV: z.enum(["development", "test", "production"]).default("development"),
   NOTION_TOKEN: z.string().min(10),
   NOTION_DATABASE_ID: z.string().min(10),
   ZR_API_KEY: z.string().min(10),
@@ -20,6 +21,10 @@ const envSchema = z.object({
   SHOPIFY_WEBHOOK_SECRET: z.string().optional(),
   APP_URL: z.string().url().optional(),
   PORT: z.string().default("3000").transform((v) => parseInt(v, 10)),
+  // ZR Express webhook receiver — set after running `npm run webhook:register`
+  WEBHOOK_SECRET: z.string().optional(),           // whsec_... signing secret from ZR
+  ZR_WEBHOOK_URL: z.string().url().optional(),     // Public HTTPS URL of /webhooks/zrexpress
+  ZR_ACCESS_TOKEN: z.string().optional(),          // Bearer token for webhook registration (falls back to ZR_API_KEY if unset)
 });
 
 const parsed = envSchema.safeParse(process.env);

@@ -47,8 +47,8 @@ export interface ValidatedOrder {
   communeId: string;        // UUID: ZR districtTerritoryId
   wilayaId: string;         // UUID: ZR cityTerritoryId (= commune.parentId)
   deliveryType: "home" | "pickup-point";
-  totalAmount: number;      // المبلغ الإجمالي — always sent to ZR as the order amount
-  codAmount: number;        // 0 if prepaid
+  totalAmount: number;      // المبلغ الإجمالي — full order value (declared)
+  codAmount: number;        // amount ZR collects on delivery; 0 if prepaid
   quantity: number;
   unitPrice: number;        // سعر اللوحة or المبلغ الإجمالي
   productDescription: string; // 2–250 chars, no | characters

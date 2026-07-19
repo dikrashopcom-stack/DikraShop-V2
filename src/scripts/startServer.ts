@@ -1,6 +1,7 @@
 import express from "express";
 import { handleOrderCreate } from "../webhook/handler";
 import { registerShopifyWebhook } from "../webhook/registerWebhook";
+import { zrWebhookRouter } from "../webhooks/zrWebhook";
 import { env } from "../utils/env";
 import { logger } from "../utils/logger";
 
@@ -14,6 +15,7 @@ app.get("/", (_req, res) => {
 });
 
 app.post("/webhooks/orders/create", handleOrderCreate);
+app.use("/webhooks/zrexpress", zrWebhookRouter);
 
 app.listen(env.PORT, () => {
   logger.info(`Server running on port ${env.PORT}`);

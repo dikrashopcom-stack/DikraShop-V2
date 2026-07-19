@@ -14,13 +14,16 @@
     "fetch:hubs": "ts-node src/scripts/fetchHubs.ts",
     "build:hub-map": "ts-node src/scripts/buildHubPriceMap.ts",
     "build:stop-desks": "ts-node src/scripts/buildStopDesks.ts",
-    "fetch:all": "npm run fetch:territories && npm run fetch:rates && npm run fetch:hubs && npm run build:hub-map && npm run build:stop-desks"
+    "fetch:all": "npm run fetch:territories && npm run fetch:rates && npm run fetch:hubs && npm run build:hub-map && npm run build:stop-desks",
+    "webhook:register": "ts-node src/scripts/registerWebhook.ts",
+    "test": "node --test --require ts-node/register test/*.test.ts"
   },
   "dependencies": {
     "@notionhq/client": "^2.2.15",
     "axios": "^1.6.7",
     "dotenv": "^16.4.4",
     "express": "^5.2.1",
+    "svix": "^1.90.0",
     "uuid": "^9.0.0",
     "zod": "^3.22.4"
   },

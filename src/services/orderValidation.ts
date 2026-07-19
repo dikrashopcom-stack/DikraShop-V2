@@ -74,7 +74,7 @@ export async function validateOrder(raw: NotionOrderRaw): Promise<ValidationResu
 
   if (errors.length > 0) return { success: false, errors };
 
-  const territory = await resolveCommuneAndWilaya(raw.البلدية!.trim());
+  const territory = await resolveCommuneAndWilaya(raw.البلدية!.trim(), raw.الولاية);
   if (!territory) {
     return {
       success: false,

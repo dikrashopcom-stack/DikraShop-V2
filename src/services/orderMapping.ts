@@ -3,7 +3,15 @@ import { ValidatedOrder } from "../types/notionOrder";
 import { ZRCreateParcelRequest } from "../types/zr";
 
 export function mapOrderToZRPayload(order: ValidatedOrder): ZRCreateParcelRequest {
-  const amount = order.totalAmount;
+  // ZR `amount` is what the courier COLLECTS on delivery. For prepaid orders
+  // (BaridiMob/CCP) codAmount is 0, so ZR must NOT collect cash again — sending
+  // totalAmount here would double-charge an already-paid customer.
+  const amount = order.codAmount;
+
+  // Keep the line-item value consistent with the collected amount: per-unit price
+  // derived from the collected amount so unitPrice × quantity === amount.
+  const qty = order.quantity > 0 ? order.quantity : 1;
+  const unitPrice = Math.round((amount / qty) * 100) / 100;
 
   return {
     customer: {
@@ -17,8 +25,8 @@ export function mapOrderToZRPayload(order: ValidatedOrder): ZRCreateParcelReques
     },
     orderedProducts: [{
       productName: "Cadre Cadeau",
-      unitPrice:   order.unitPrice,
-      quantity:    order.quantity,
+      unitPrice,
+      quantity:    qty,
       stockType:   "none",
       weight:      0.5,
     }],
